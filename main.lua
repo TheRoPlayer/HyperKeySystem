@@ -2,7 +2,7 @@
 local HttpService = game:GetService("HttpService")
 
 -- CONFIG URL: Replace this with your RAW GitHub link to the config.json
-local ConfigURL = "https://raw.githubusercontent.com/YourUser/YourRepo/main/config.json"
+local ConfigURL = "https://raw.githubusercontent.com/TheRoPlayer/HyperKeySystem/refs/heads/main/config.json"
 
 local function GetConfig()
     local success, result = pcall(function()
