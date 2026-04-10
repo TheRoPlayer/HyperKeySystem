@@ -1,6 +1,6 @@
 -- config.lua
 local Config = {
-    ["Key"] = "test",
+    ["Key"] = "lol",
     ["KeyLink"] = "https://linkvertise.com/yourlink",
     ["MainScriptURL"] = "https://raw.githubusercontent.com/TheRoPlayer/hacks/refs/heads/main/2025script.lua",
     ["Title"] = "GEMINI <font color='#7850FF'>PROJECT</font>",
