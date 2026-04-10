@@ -19,7 +19,7 @@ local Theme = {
 
 --// LOAD CONFIGURATION
 -- (Users change this URL to their own RAW GitHub config link)
-local ConfigURL = "https://raw.githubusercontent.com/User/Repo/main/config.json"
+local ConfigURL = "https://raw.githubusercontent.com/TheRoPlayer/HyperKeySystem/refs/heads/main/config.json"
 local success, Config = pcall(function() return HttpService:JSONDecode(game:HttpGet(ConfigURL)) end)
 
 if not success then 
