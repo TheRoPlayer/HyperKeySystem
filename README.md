@@ -6,17 +6,15 @@
 
 Code:
 
-///
 {
     "Key": "YOUR_KEY_HERE", -- edit this to your correct key :)
     "KeyLink": "https://linkvertise.com/yourlink", -- edit this 
     "MainScript": "https://raw.githubusercontent.com/User/Repo/main/YourScript.lua" 
 }
-///
+
 
 ## Second create a file called (name).lua
 
-///
 
 -- Gemini UI Library (Open Source Version)
 -- Optimized for GitHub Hosting & User Customization
@@ -142,4 +140,3 @@ SubBtn.MouseButton1Click:Connect(function()
         TS:Create(KStroke, TweenInfo.new(0.3), {Color = Theme.Accent}):Play()
     end
 end) 
-///
