@@ -2,7 +2,7 @@
 
 ## How to use:
 
-First create a config.json file.
+## First create a config.json file.
 
 Code:
 
@@ -14,9 +14,11 @@ Code:
 }
 ///
 
-Second create a file called (name).lua
+## Second create a file called (name).lua
 
-///-- Gemini UI Library (Open Source Version)
+///
+
+-- Gemini UI Library (Open Source Version)
 -- Optimized for GitHub Hosting & User Customization
 
 local UIS = game:GetService("UserInputService")
