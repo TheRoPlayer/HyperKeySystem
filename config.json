@@ -1,5 +1,5 @@
 {
-    "Key": "YOUR_KEY_HERE",
+    "Key": "test",
     "KeyLink": "https://linkvertise.com/yourlink",
     "MainScript": "https://raw.githubusercontent.com/User/Repo/main/YourScript.lua"
 }
