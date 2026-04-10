@@ -1,0 +1,5 @@
+{
+    "Key": "test",
+    "KeyLink": "https://linkvertise.com/yourlink",
+    "MainScript": "https://raw.githubusercontent.com/YourUser/YourRepo/main/MainUI.lua"
+}
